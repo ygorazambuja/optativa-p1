@@ -20,7 +20,7 @@
 
     <groupId>br.com.optativa</groupId>
     <artifactId>optativa-api</artifactId>
-    <version>5.9.3</version>
+    <version>5.10.0</version>
     <packaging>jar</packaging>
 
     <parent>
